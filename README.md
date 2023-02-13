@@ -1,4 +1,4 @@
-# Tensor_ML
+# Tensor-ML
 ## Author: Rohan Singh
 Repository for Working with Tensors for Machine Learning in Python. This repository contains simple source code for getting started with Tensors in Machine Learning as well as code from my research project at Case Western Reserve University.   
 
