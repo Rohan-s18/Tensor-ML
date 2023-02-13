@@ -9,9 +9,10 @@ The Source Code is divided into the following directories:
 
 ## Dependencies and Packages
 This repository contains source code which requires the following:  
-  - > Python 3.7 >=  
-  - > Numpy >= 23
-  - > Matplotlib >= 
+  - > python >= 3.11.1
+  - > numpy >= 24.2
+  - > matplotlib >= 3.6.3  
+  - > pandas >= 1.5.3  
 
 ## Contact
 rxs1182@case.edu  
